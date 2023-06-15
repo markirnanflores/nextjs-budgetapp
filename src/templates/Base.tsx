@@ -54,6 +54,13 @@ const Base = () => (
         </p>
       </div>
     </div>
+    {/**
+    <Meta title={AppConfig.title} description={AppConfig.description} />
+    <Hero />
+    <VerticalFeatures />
+    <Banner />
+    <Footer />
+     */}
   </>
 );
 
